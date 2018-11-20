@@ -22,4 +22,5 @@ describe('Paint',function () {
     paint.emptyCan();
     assert.strictEqual(0, paint.litres);
   });
-  });
+
+});
